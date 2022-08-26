@@ -1,0 +1,50 @@
+
+<<<<<<< HEAD
+#### ALTTAKI DOSYALAR IGNORE EDILEBILDI
+#### AMA IDEA ALTINDAKI XML DOSYALARI EKLENMIYOR, HER COMMIT'TEN ONCE SILINIRSE SORUN COZULUR.
+=======
+  ##############################
+        ## Java
+        ##############################
+        .mtj.tmp/
+        *.class
+        *.jar
+        *.war
+        *.ear
+        *.nar
+        hs_err_pid*
+
+        ##############################
+        ## Maven
+        ##############################
+        target/
+        pom.xml.tag
+        pom.xml.releaseBackup
+        pom.xml.versionsBackup
+        pom.xml.next
+        pom.xml.bak
+        release.properties
+        dependency-reduced-pom.xml
+        buildNumber.properties
+        .mvn/timing.properties
+        .mvn/wrapper/maven-wrapper.jar
+
+
+        ## IntelliJ
+        ##############################
+        out/
+        .idea/
+        .idea_modules/
+        *.iml
+        *.ipr
+        *.iws
+>>>>>>> master
+
+/target/
+/.idea/libraries/
+/.idea/shelf/
+/.idea/
+<<<<<<< HEAD
+=======
+
+>>>>>>> master
